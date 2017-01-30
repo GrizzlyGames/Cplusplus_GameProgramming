@@ -1,4 +1,4 @@
-// Basic Game Stats
+// Game Stats
 // Demonstrates declaring and initializing variables
 
 #include <iostream>
@@ -41,3 +41,17 @@ int main()
 
 	return 0;
 }
+
+/*
+short int			-32,768 - 32,767
+unsigned short int	0 - 65,535
+int					-2,147,483,648 - 2,147,483,648
+unsigned int		0 - 4,294,967,295
+long int			-2,147,483,648 - 2,147,483,648
+unsigned long int	0 - 4,294,967,295
+float				3.4E +/- 38
+double				1.7E +/- 308
+long doube			1.7E +/- 308
+char				256 character values
+bool				true or false
+*/
